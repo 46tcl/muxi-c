@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
     int a,b,c,t;
     printf("请输入三个整数：\n");

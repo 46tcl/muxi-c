@@ -1,5 +1,5 @@
 #include <stdio.h>/*在int变量中放入实数型的值（例如3.14）*/
-int main()
+int main(void)
 {
     int a=3.14;
     printf("a的值是%d\n",a);

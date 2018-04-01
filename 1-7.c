@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
     puts("天");
     puts("地");
