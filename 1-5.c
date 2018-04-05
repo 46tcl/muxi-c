@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*输出一个数字加上12的结果*/
 int main(void)
 {   int a;
     printf("请输入一个整数：");

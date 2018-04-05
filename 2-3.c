@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*练习使用ｄｏｕｂｌｅ类型的数据*/
 int main(void)
 {
     double a;

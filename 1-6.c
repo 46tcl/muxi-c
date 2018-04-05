@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*输出某个数字减去６的结果*/
 int main(void)
 {
     int a;

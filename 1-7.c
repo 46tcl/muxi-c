@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*按照一定的格式输出天地人*/
 int main(void)
 {
     puts("天");

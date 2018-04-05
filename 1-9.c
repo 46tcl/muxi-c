@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*计算三个数字的和*/
 int main(void)
 {
     int a,b,c,t;

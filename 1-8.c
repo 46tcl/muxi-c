@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*计算两个数字的乘积*/
 int main(void)
 {
     int a,b,t;

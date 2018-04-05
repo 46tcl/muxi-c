@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*判断前者数字是后者数字的百分之几*/
 int main(void)
 {
     int x,y;
