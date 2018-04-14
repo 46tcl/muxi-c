@@ -4,7 +4,7 @@
 int main()
 {
     int i;
-    int x[NUMBER];
+    int x[NUMBER];/*int[7]数组*/
 
     for(i=0;i<NUMBER;i++){
         printf("x[%d]:",i);scanf("%d",&x[i]);
